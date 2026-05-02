@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Why Climate Action Needs to Start at the Local Level",
+    "excerpt": "National policies matter, but the real momentum for climate change is being built city by city, neighborhood by neighborhood.",
+    "category": "action",
+    "date": "Apr 28, 2026",
+    "readTime": "5 min",
+    "author": "Your Name",
+    "authorInitials": "YN",
+    "authorColor": "#2d6a4f",
+    "linkedinUrl": "https://www.linkedin.com/pulse/your-article-slug",
+    "content": "National policies matter, but the real momentum for climate change is being built city by city, neighborhood by neighborhood. From community solar programs in Texas to urban rewilding projects in Singapore, local governments and grassroots organizations are proving that meaningful climate action doesn't have to wait for international consensus. This article explores five examples of hyper-local climate initiatives that are already delivering measurable results — and what makes them replicable at scale."
+  },
+  {
+    "id": 2,
+    "title": "The Carbon Accounting Gap Nobody Is Talking About",
+    "excerpt": "Most corporate net-zero pledges rely on carbon accounting methods that significantly undercount actual emissions.",
+    "category": "policy",
+    "date": "Apr 15, 2026",
+    "readTime": "7 min",
+    "author": "Your Name",
+    "authorInitials": "YN",
+    "authorColor": "#2d6a4f",
+    "linkedinUrl": "https://www.linkedin.com/pulse/your-second-article-slug",
+    "content": "Most corporate net-zero pledges rely on carbon accounting methods that significantly undercount actual emissions — particularly Scope 3 emissions from supply chains and product use. A growing body of research suggests that if companies used consistent, science-aligned methodologies, many headline net-zero commitments would unravel. This piece examines the three biggest gaps in current corporate carbon accounting, why they persist, and what investors and regulators can do to close them."
+  }
+]
